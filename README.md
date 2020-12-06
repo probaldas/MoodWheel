@@ -1,12 +1,11 @@
 # MoodWheel
 
-> In Development
-
 Mood Wheel is a simple 3d wheel game, which shows 10 different moods (denoted by smiles). 
 It needs just a tap to rotate the wheel and it will randomly stop on a mood.
 
 ### Screenshot
-Coming soon...
+
+<img src="https://user-images.githubusercontent.com/49045586/101268014-cbaaf700-372c-11eb-896b-cca250c508cd.PNG" width="300" />
 
 ---
 
